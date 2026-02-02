@@ -33,7 +33,7 @@
 
 ## 📄 Publications / Research
 - **IEEE / Conference Paper**: *(Machine Learning Inspired Impedance Matching Prediction of Fractal Gasket Antenna)*  
-  - Role: Co-author  
+  - Role: Sandip Ghosal, Chamundeswari K  
   - Year: 2025  
   - Link: *(https://ieeexplore.ieee.org/document/11337418)*
 
@@ -65,15 +65,7 @@
 
 ---
 
-## 🎯 Other Activities (Professional)
-✅ You can add these and it looks **very strong** on GitHub:
 
-- 🏅 Participated in technical events, workshops, and hackathons  
-- 📚 Continuous learning through online courses & research papers  
-- 🤝 Collaborated on academic and team-based projects  
-- 🧑‍🏫 Mentored / supported peers in project development
-
----
 
 ## 💻 Tech Stack
 
