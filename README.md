@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttej-kumar-avula/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uttej123kumar@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](https://uttejvluda.github.io/My-Portfolio/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white)](YOUR_RESUME_LINK_HERE)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1WnQhZg7TUPOwsF2qDiTh2W6hkZKUQ7Rm/view)
 
 ---
 
@@ -38,7 +38,7 @@
   - Link: *(https://ieeexplore.ieee.org/document/11337418)*
 
 ---
----
+
 
 ## 🏅 Achievements & Leadership
 
