@@ -17,7 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttej-kumar-avula/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uttej123kumar@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](https://uttejvluda.github.io/My-Portfolio/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1WnQhZg7TUPOwsF2qDiTh2W6hkZKUQ7Rm/view)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=4m4xSzYAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-2205-1668)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Uttejvluda)
